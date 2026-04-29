@@ -780,6 +780,7 @@ Key enhancements over go-ethereum:
     +   [Zapper](https://zapper.fi/): dashboard for viewing and managing your DeFi investments.
     +   [Furucombo](https://furucombo.app/): easily create flashloans without writing a single line of code.
     +   [Covalent](https://www.covalenthq.com/): an unified API bringing visibility to billions of blockchain data points.
+    +   [DeepAlpha](https://github.com/stefanoviana/deepalpha): AI-powered crypto trading bot with ML ensemble, 12 exchanges, grid trading, and DCA strategies.
 
 ### Roadmaps
 
